@@ -1,25 +1,21 @@
 # Libraries for Apriori, FP-Growth, Decision Trees, Naive Bayes, K-Means, Correlation, etc.
 
 # For Apriori and FP-Growth
-mlxtend==0.21.0
-apyori==1.1.2
-efficient-apriori==1.3.0
+mlxtend
+apyori
+efficient-apriori
 
 # For Decision Trees
-scikit-learn==1.3.0
-graphviz==0.20.1
+scikit-learn
+graphviz
 
 # For Naive Bayes
-scikit-learn==1.3.0
+scikit-learn
 
 # For K-Means Clustering
-scikit-learn==1.3.0
-matplotlib==3.7.1
+matplotlib
 
 # For Correlation (Chi-Square and Pearson)
-scipy==1.11.1
-pandas==2.0.3
-statsmodels==0.14.0
-
-# For Visualization (Optional)
-matplotlib==3.7.1
+scipy
+pandas
+statsmodels
